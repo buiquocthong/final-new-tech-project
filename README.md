@@ -203,7 +203,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ### Project Link
 
-[https://github.com/yourusername/your-project-name](https://github.com/buiquocthong/final-new-tech-project.git)
+[Git repository](https://github.com/buiquocthong/final-new-tech-project.git)
 
 ## 📚 Additional Resources
 
